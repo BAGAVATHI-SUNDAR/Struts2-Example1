@@ -1,0 +1,28 @@
+@CHARSET "ISO-8859-1";
+
+body {
+	
+}
+form{
+	border:5px solid orange;
+	margin-left:720px;
+	margin-right:10px;
+	width:465px;
+	background-color: #ddd;
+	padding-top:10px;
+	padding-bottom: 10px;
+	padding-left: 8px;
+}
+div#clear{
+	float: left
+}
+#col1
+	{
+		width:700px;
+		height:500px;
+		margin-top:10px;
+		margin-left:75px;
+		margin-right:75px;
+		background-color:#ccb;
+	}
+
